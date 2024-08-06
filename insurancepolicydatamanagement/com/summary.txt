@@ -1,0 +1,2 @@
+Number of policies:3
+Total policy amount:1000
